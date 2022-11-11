@@ -1,0 +1,49 @@
+div.Member {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	margin: 20px;
+	background-image: url(https://images.wallpaperscraft.com/image/single/silhouette_desert_pyramid_130240_3000x3000.jpg);
+	background-position: center;
+	background-size: cover;
+	margin-left:0%;
+    margin-top: 2%;
+	color: rgb(224, 71, 94);
+	/* background-repeat: no-repeat; */
+	
+  }
+  
+  .Auth-form {
+	width: 420px;
+	box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	border-radius: 8px;
+	/* background-color: aqua; */
+
+  }
+  
+  .Auth-form-content {
+	padding-left: 12%;
+	padding-right: 12%;
+  }
+  
+  .Auth-form-title {
+	text-align: center;
+	margin-bottom: 1em;
+	font-size: 24px;
+	color: rgba(137, 8, 235, 0.951);
+	font-weight: 800;
+  }
+  
+  label {
+	font-size: 14px;
+	font-weight: 600;
+	color: rgb(34, 34, 34);
+  }
+
+  .lb{
+	color: rgb(24, 28, 27);
+  }

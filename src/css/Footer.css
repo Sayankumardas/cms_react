@@ -1,0 +1,14 @@
+footer.style{
+    position:absolute;
+    left:0;
+    bottom: 10px;
+    right:0;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    height: 30px;
+    font-style: oblique;
+    }
+    div.card-body{
+        font-style: oblique;
+    }

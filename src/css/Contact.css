@@ -1,0 +1,25 @@
+.contact{
+    margin: 100px;
+}
+
+.Table-contact{
+    margin: 100px;
+    background-color: gainsboro;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 260px;
+    width: 800px;
+}
+.tr-contact-1{
+    color: red;
+    font-size: medium;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tr-contact-2{
+    color: blue;
+    font-size: small;
+    font-weight: bold;
+    font-display: inherit;
+}

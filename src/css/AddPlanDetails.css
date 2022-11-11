@@ -1,0 +1,22 @@
+div.pic5{
+    background-image: url(https://r1.ilikewallpaper.net/ipad-pro-wallpapers/download/87334/gradient-art-abstract-4k-ipad-pro-wallpaper-ilikewallpaper_com.jpg);
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	margin: 20px;
+	background-position: center;
+	background-size: cover;
+	margin-left:0%;
+    margin-top: 2%;
+	color: black;
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+h2.name{
+    margin-top: -290px;
+    margin-left: 160px;
+}

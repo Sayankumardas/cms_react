@@ -1,0 +1,25 @@
+/* h1{
+    font: size 100px;
+    color: rgba(17, 232, 35, 0.979);
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex: 50%;
+    margin-top: 20%;
+    padding: 30%;
+  } */
+
+  .img{
+    /* background-image: url(https://images3.alphacoders.com/112/thumb-1920-112347.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50.9px;
+  }
+  .card-header{
+    font-size:x-large;
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .card-body-footer{
+    background-color: black;
+    color: white;
+  }

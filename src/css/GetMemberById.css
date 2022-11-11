@@ -1,0 +1,43 @@
+div.row{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    height: 50px;
+    left: 5px;
+    /* width: auto; */
+    margin-top: 50.1px;
+    position:relative;
+    text-align: left;
+}
+div.options{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    height: 50px;
+    left: 5px;
+    /* width: auto; */
+    margin-top: 50.1px;
+    position: relative;
+    text-align: left;
+}
+div.Plan-byid{
+    position: relative;
+    margin: 280px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    width: fit-content;
+    right: 280px;
+}
+div.logout{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    height: 50px;
+    left: 5px;
+    /* width: auto; */
+    margin-top: 30px;
+    position: relative;
+    text-align: right;
+}
+/* div.Claim-byid{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    width: fit-content;
+} */
